@@ -1,5 +1,6 @@
 # Learning to use cloud platform
 
+
 This exercise will involve creating a docker container and running it on the Google Cloud 
 platform. 
 
